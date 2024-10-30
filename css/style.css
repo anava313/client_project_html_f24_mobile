@@ -202,6 +202,7 @@ article{
 
 #life-outside-classroom p{
     grid-column: 1/-1;
+    padding-top: 1rem;
 }
 
 #life-outside-classroom div{
@@ -236,20 +237,10 @@ article{
     grid-column: 1/-1;
 }
 
-.first{
-    background-color: #FFCB05;
-    color: black;
-    padding: 1rem;
-    margin: 1rem;
-    border-radius: 5px;
-    font-weight: bold;
-    display: grid;
-    grid-template-columns: repeat(6, 1fr);
-}
-
 figure{
     grid-column: 1/-1;
-    padding-bottom: 0px
+    padding-bottom: 0px;
+    padding-top: 2rem;
 }
 
 .first_stories{
@@ -289,6 +280,7 @@ figure{
 
 .gateway h3{
     grid-column: 1/-1;
+    padding-top: 1 rem;
 }
 
 .gateway p{
@@ -297,9 +289,16 @@ figure{
 
 .gateway ol{
     padding-top: 1rem;
+    padding-left: 1rem;
+    padding-bottom: 1rem;
     list-style-type: disc;
     justify-content: center;
     grid-column: 1/6;
+}
+
+.gateway li{
+    padding-top: .5rem;
+    padding-bottom: .5rem;
 }
 
 .events{
@@ -429,10 +428,10 @@ figure{
 
 .about p{
     grid-column: 1/-1;
+    padding-top: 1rem;
 }
 
 .about ol{
-    padding-top: 1rem;
     padding-left: 1rem;
     list-style-type: disc;
     justify-content: center;
@@ -443,11 +442,17 @@ figure{
     grid-column: 1/-1;
     padding-top: 1rem;
     padding-left: 1rem;
+    padding-right: .5rem;
+    padding-bottom: 1rem;
     list-style-type: disc;
     justify-content: center;
-    grid-column: 1/6;
+    grid-column: 1/-1;
 }
 
+.about li{
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+}
 
 .caps_location{
     background-color: #FFCB05;
