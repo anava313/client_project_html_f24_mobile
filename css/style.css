@@ -5,7 +5,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    font-size: 1rem;
+    font-size: 1em;
     background-color: #00274C
 
 }
@@ -50,7 +50,7 @@ body {
 
 header {
     text-align:center;
-    margin-bottom: 1.5rem;
+    margin-bottom: 1.5em;
     position: sticky;
     top:0;
     z-index: 1000;
@@ -62,8 +62,8 @@ header img {
 }
 
 main h1 {
-    font-size: 1.5rem;
-    margin-top: 1rem;
+    font-size: 1.5em;
+    margin-top: 1em;
     color: white;
     font-weight: bold;
     text-align: center;
@@ -71,16 +71,16 @@ main h1 {
 
 nav{
     background-color: #FFCB05;;
-    padding: 0.5rem;
-    margin: 0.5rem;
+    padding: 0.5em;
+    margin: 0.5em;
     border-radius: 5px;
     border: solid white;
 }
 nav li {
     display: grid;
     grid-template-columns: auto;
-    padding-bottom: 0.5rem;
-    padding-top: 0.5rem;
+    padding-bottom: 0.5em;
+    padding-top: 0.5em;
     font-size: large;
 }
   
@@ -122,8 +122,8 @@ footer a:visited {
 .home_welcome{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
@@ -132,7 +132,7 @@ footer a:visited {
 
 h2{
     font-size: x-large;
-    padding-bottom: .5rem;
+    padding-bottom: .5em;
     grid-column:1/-1;
 }
 
@@ -142,21 +142,21 @@ h2{
 }
 
 ul{
-    padding-top: 1rem;
+    padding-top: 1em;
     list-style-type: disc;
     justify-content: center;
     grid-column: 2/6;
 }
 
 .home_welcome li{
-    padding: .5rem .5rem;
+    padding: .5em .5em;
 }
 
 .home_health{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
@@ -175,8 +175,8 @@ article{
 .home_mental{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
@@ -191,8 +191,8 @@ article{
 #life-outside-classroom{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
@@ -202,7 +202,7 @@ article{
 
 #life-outside-classroom p{
     grid-column: 1/-1;
-    padding-top: 1rem;
+    padding-top: 1em;
 }
 
 #life-outside-classroom div{
@@ -210,7 +210,7 @@ article{
 }
 
 #life-outside-classroom li{
-    padding: .5rem .5rem;
+    padding: .5em .5em;
 
 }
 
@@ -219,8 +219,8 @@ article{
 .first_welcome{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
@@ -240,14 +240,14 @@ article{
 figure{
     grid-column: 1/-1;
     padding-bottom: 0px;
-    padding-top: 2rem;
+    padding-top: 2em;
 }
 
 .first_stories{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
@@ -266,8 +266,8 @@ figure{
 .gateway{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
@@ -280,7 +280,7 @@ figure{
 
 .gateway h3{
     grid-column: 1/-1;
-    padding-top: 1 rem;
+    padding-top: 1em;
 }
 
 .gateway p{
@@ -288,24 +288,24 @@ figure{
 }
 
 .gateway ol{
-    padding-top: 1rem;
-    padding-left: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-bottom: 1em;
     list-style-type: disc;
     justify-content: center;
     grid-column: 1/6;
 }
 
 .gateway li{
-    padding-top: .5rem;
-    padding-bottom: .5rem;
+    padding-top: .5em;
+    padding-bottom: .5em;
 }
 
 .events{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
@@ -323,8 +323,8 @@ figure{
 .end{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
@@ -343,8 +343,8 @@ figure{
 .links{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
@@ -359,15 +359,18 @@ figure{
 .pantry_welcome{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
-    grid-template-columns: repeat(minmax(0, 1fr)); /*minmax taken from https://developer.mozilla.org/en-US/docs/Web/CSS/minmax*/
+    grid-template-columns: repeat(6, 1fr) ; 
     overflow-wrap: break-word;
 }
 
+.pantry_welcome p{
+    grid-column: 1/-1;
+}
 .pantry_welcome h2{
     grid-column: 1/-1;
 }
@@ -381,44 +384,58 @@ figure{
 .location{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
-    grid-template-columns: repeat(minmax(0, 1fr)); /*minmax taken from https://developer.mozilla.org/en-US/docs/Web/CSS/minmax*/
+    grid-template-columns: repeat(6, 1fr); /*minmax taken from https://developer.mozilla.org/en-US/docs/Web/CSS/minmax*/
     overflow-wrap: break-word;
 }
 
+.location p {
+    grid-column: 1/-1;
+}
+
+.location h3 {
+    grid-column: 1/-1;
+}
 /* CAPS styles */
 
 .caps_welcome{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
-    grid-template-columns: repeat(minmax(0, 1fr)); /*minmax taken from https://developer.mozilla.org/en-US/docs/Web/CSS/minmax*/
+    grid-template-columns: repeat(6, 1fr); 
     overflow-wrap: break-word;
+}
+
+.caps_welcome p{
+    grid-column: 1/-1;
+}
+
+.caps_welcome h3{
+    grid-column: 1/-1;
 }
 
 .about{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
-    grid-template-columns: repeat(6, minmax(0, 1fr)); 
-    /*minmax taken from https://developer.mozilla.org/en-US/docs/Web/CSS/minmax*/
+    grid-template-columns: repeat(6, 1fr); 
     overflow-wrap: break-word;
 }
 .about h2{
     grid-column: 1/-1;
-    padding-top: 1rem;
+    padding-top: 1em;
 }
 
 .about h3{
@@ -428,11 +445,11 @@ figure{
 
 .about p{
     grid-column: 1/-1;
-    padding-top: 1rem;
+    padding-top: 1em;
 }
 
 .about ol{
-    padding-left: 1rem;
+    padding-left: 1em;
     list-style-type: disc;
     justify-content: center;
     grid-column: 1/6;
@@ -440,62 +457,78 @@ figure{
 
 .about ul{
     grid-column: 1/-1;
-    padding-top: 1rem;
-    padding-left: 1rem;
-    padding-right: .5rem;
-    padding-bottom: 1rem;
+    padding-top: 1em;
+    padding-left: 1em;
+    padding-right: .5em;
+    padding-bottom: 1em;
     list-style-type: disc;
     justify-content: center;
     grid-column: 1/-1;
 }
 
 .about li{
-    padding-top: .5rem;
-    padding-bottom: .5rem;
+    padding-top: .5em;
+    padding-bottom: .5em;
 }
 
 .caps_location{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
-    grid-template-columns: repeat(minmax(0, 1fr)); /*minmax taken from https://developer.mozilla.org/en-US/docs/Web/CSS/minmax*/
+    grid-template-columns: repeat(6, 1fr); 
     overflow-wrap: break-word;
+}
+.caps_location p{
+    grid-column: 1/-1;
+}
+
+.caps_location h2{
+    grid-column: 1/-1;
 }
 
 .outreach{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
-    grid-template-columns: repeat(minmax(0, 1fr)); /*minmax taken from https://developer.mozilla.org/en-US/docs/Web/CSS/minmax*/
+    grid-template-columns: repeat(6, 1fr); 
     overflow-wrap: break-word;
     justify-content: center;
 }
 
+.outreach p{
+    grid-column: 1/-1;
+}
 .outreach h3{
     font-size: larger;
+    grid-column: 1/-1;
 }
 .resources{
     background-color: #FFCB05;
     color: black;
-    padding: 1rem;
-    margin: 1rem;
+    padding: 1em;
+    margin: 1em;
     border-radius: 5px;
     font-weight: bold;
     display: grid;
-    grid-template-columns: repeat(minmax(0, 1fr)); /*minmax taken from https://developer.mozilla.org/en-US/docs/Web/CSS/minmax*/
+    grid-template-columns: repeat(6, 1fr); 
     overflow-wrap: break-word;
 }
 
 .resources h3{
     font-size: larger;
+    grid-column: 1/-1;
+}
+
+.resources p{
+    grid-column: 1/-1;
 }
 
 
