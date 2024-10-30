@@ -136,17 +136,20 @@ h2{
     grid-column:1/-1;
 }
 
-.home_welcome p1{
-    font-size: larger;
+.home_welcome p{
+    font-size: large;
+    grid-column: 1/-1; 
 }
-.home_welcome p1, p2{
-    grid-column: 1/-1;
-}
+
 ul{
     padding-top: 1rem;
     list-style-type: disc;
     justify-content: center;
     grid-column: 2/6;
+}
+
+.home_welcome li{
+    padding: .5rem .5rem;
 }
 
 .home_health{
@@ -203,6 +206,11 @@ article{
 
 #life-outside-classroom div{
     grid-column: 1/-1;
+}
+
+#life-outside-classroom li{
+    padding: .5rem .5rem;
+
 }
 
 /* First gen styles */
